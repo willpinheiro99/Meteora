@@ -1,0 +1,29 @@
+.texto-menor {
+    font-size: 13px 
+}
+
+.divs-facilidades {
+  
+}
+
+.botao-lilas {
+ background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+
+.preto {
+    background-color: black;
+}
